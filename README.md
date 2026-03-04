@@ -1,1 +1,1 @@
-# git-course-example-1
+# git-practice-1
